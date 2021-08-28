@@ -8,7 +8,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "hippie": "^0.5.1",
+    "hippie": "^0.6.1",
     "jsonpath": "^0.2.11"
   }
 }

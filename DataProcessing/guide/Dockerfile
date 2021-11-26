@@ -1,4 +1,4 @@
-FROM ruby:2.3-alpine
+FROM ruby:2.6.9-alpine
 
 RUN apk --no-cache add make gcc libc-dev libffi-dev
 

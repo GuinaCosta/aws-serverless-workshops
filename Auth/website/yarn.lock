@@ -486,16 +486,15 @@ autoprefixer@^6.3.1:
     postcss "^5.2.16"
     postcss-value-parser "^3.2.3"
 
-aws-amplify-react@^1.0.0:
-  version "1.0.8"
-  resolved "https://registry.yarnpkg.com/aws-amplify-react/-/aws-amplify-react-1.0.8.tgz#8f8d83dab8c75eb910adf9605de65e7a92764197"
-  integrity sha512-NfPPSCbwtK4/ablg+khkMLk9Gkrzfb8bjZuAx4leYsPHU6O8Fn9WQwyj/SLn9JB4RncEzzxawauQcdxlq/+yhg==
+aws-amplify-react@^2.0.0:
+  version "2.6.3"
+  resolved "https://registry.yarnpkg.com/aws-amplify-react/-/aws-amplify-react-2.6.3.tgz#b7bbfce30ad4ab6e83ce77c50f5d837f05d1fdfe"
+  integrity sha512-fptSdGvBNvtEAn/tAN3dDm2SFRSpWafYVFywh/WVFYbDIULdjQEbTW0ZjefVDQcu2KMwlFf0O/wRNQRqqrqlwA==
   dependencies:
-    aws-amplify "^1.0.6"
     qrcode.react "^0.8.0"
     regenerator-runtime "^0.11.1"
 
-aws-amplify@^1.0.0, aws-amplify@^1.0.6:
+aws-amplify@^1.0.0:
   version "1.1.9"
   resolved "https://registry.yarnpkg.com/aws-amplify/-/aws-amplify-1.1.9.tgz#bb0f87ae74a790012d99af4e1bb12074d18092f3"
   integrity sha512-QoOEH7wfRKYumWsAV8T1aLPaiVrKeOFWc2cnzj2sybcdVugUxrKdQU1mQvGj0eZTsUDV+zTe78FQMfEFKrcJaQ==

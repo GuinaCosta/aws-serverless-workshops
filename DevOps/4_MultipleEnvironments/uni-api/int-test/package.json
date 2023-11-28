@@ -9,6 +9,6 @@
   "license": "ISC",
   "dependencies": {
     "hippie": "^0.5.1",
-    "jsonpath": "^0.2.11"
+    "jsonpath": "^1.0.2"
   }
 }

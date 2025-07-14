@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "haml"
-gem "listen"
+gem "listen", ">= 3.1.0"
 gem "rake"
 gem "pandoc-ruby"
 gem "gemoji-parser"
